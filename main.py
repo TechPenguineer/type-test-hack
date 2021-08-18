@@ -1,3 +1,3 @@
-from time import sleep
-from selenium import webdriver
+from util.start_text import *
 
+startTest()
